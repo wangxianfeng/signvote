@@ -1,0 +1,12 @@
+{
+  "author":"WangXianfeng",
+  "name": "signvote",
+  "version": "0.0.1",
+  "description": "Sign and Vote",
+  "main":"signvotetxt",
+  "dependencies": {
+    "engines":{
+      "node":"*"
+    }
+  }
+}
